@@ -1,4 +1,4 @@
-## On Leave Content
+## On Leave Content - js uniting test
 
 ![User moving to close the page and it shows an alert modal](https://raw.githubusercontent.com/jullierme/on-leave-intent/master/example/on-leave-intent.gif)
 
