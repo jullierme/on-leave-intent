@@ -33,3 +33,7 @@ const onLeaveIntent = new OnLeaveIntent(callback, delay)
 ## Testing
 
 You can see the tests on [index.test.js](https://github.com/jullierme/on-leave-intent/blob/master/src/index.test.js), use `yarn test` to run the tests. If you want to see an example working on the Browser, just run `yarn start`.
+
+## Copyright
+
+https://willianjusten.com.br/criando-uma-lib-js-com-testes-do-zero/
